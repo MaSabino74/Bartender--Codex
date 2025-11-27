@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Base de conhecimento de Drinks</title>
+</head>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    body {
+    background-color: #000000; /* Cor de fundo neutra, um cinza claro, para preencher o espaço */
+    color: var(--secondary-color);
+    font-family: "Quicksand", sans-serif;
+    height: 100vh;
+    width: 100vw;
+    background-image: url('Hero_Bartender.png');
+    background-repeat: no-repeat;
+    /* Opção 1: Garante que a imagem inteira apareça, sem cortes. */
+    background-size: contain; 
+    /* AJUSTE ESSENCIAL: Centraliza a imagem na horizontal e vertical. */
+    background-position: center; 
+    background-attachment: fixed;
+    }
+</style>
+<body>
+    <header>
+        <h1>Bartender's Codex: Drinks Clássicos</h1>
+        <div>
+            <input type="text" placeholder="Digite o nome de um drink">
+            <button id="botao-busca" onclick="iniciarBusca()">Buscar</button>
+        </div>
+    </header>
+
+    <main>
+        <section class="card-container">
+            <!-- <article class="card">
+                <h2>Dry Martini</h2>
+                <p>1890</p>
+                <p>O rei dos coquetéis. Uma combinação potente e elegante de Gin e Vermute Seco. Servido muito gelado, é a definição de sofisticação e precisão."</p>
+                <a href="https://www.iba-world.com/dry-martini/" target="_blank">Saiba mais</a>
+            </article> -->
+        </section>
+    </main>
+
+    <footer>
+    <footer class="footer">
+        <ul class="footer-links">
+            <li>
+                <a href="https://github.com/MaSabino74">GitHub</a>
+            </li>
+            <li>
+                <a href="www.linkedin.com/in/marcos-sabino-dev">Linkedin</a>
+            </li>
+        </ul>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

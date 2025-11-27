@@ -1,0 +1,277 @@
+[
+  {
+    "nome": "Margarita",
+    "descricao": "Um clássico mexicano que combina tequila, limão e o toque salgado da borda. Refrescante, cítrico e extremamente popular.",
+    "ano_primeira_aparicao": "1938",
+    "link_receita_padrao": "https://www.iba-world.com/margarita/",
+    "tags": ["tequila", "clássico", "sour", "citrico", "salgado"],
+    "ingredientes_principais": [
+      "Tequila",
+      "Triple Sec",
+      "Suco de Limão"
+    ],
+    "receita_chave": {
+      "proporcao": "5cl Tequila : 2cl Triple Sec : 3cl Limão",
+      "metodo": "Batido (Shaken)"
+    },
+    "copo_guarnicao": "Taça Margarita com borda de sal e rodela de limão"
+  },
+
+  {
+    "nome": "Mojito",
+    "descricao": "Coquetel cubano extremamente refrescante, combinando hortelã, limão e rum. Doce, leve e ideal para dias quentes.",
+    "ano_primeira_aparicao": "1910",
+    "link_receita_padrao": "https://www.iba-world.com/mojito/",
+    "tags": ["rum", "refrescante", "hortelã", "clássico", "excitado"],
+    "ingredientes_principais": [
+      "Rum Branco",
+      "Hortelã",
+      "Suco de Limão",
+      "Açúcar",
+      "Água com Gás"
+    ],
+    "receita_chave": {
+      "proporcao": "4cl Rum : 3cl Limão : 2 colheres de açúcar",
+      "metodo": "Misturado (Build) com maceração leve"
+    },
+    "copo_guarnicao": "Highball com ramos de hortelã"
+  },
+
+  {
+    "nome": "Negroni",
+    "descricao": "Um clássico italiano balanceado entre amargor, doçura e notas botânicas. Simples, elegante e muito aromático.",
+    "ano_primeira_aparicao": "1919",
+    "link_receita_padrao": "https://www.iba-world.com/negroni/",
+    "tags": ["gin", "amargo", "clássico", "stirred", "italiano"],
+    "ingredientes_principais": [
+      "Gin",
+      "Vermute Rosso",
+      "Campari"
+    ],
+    "receita_chave": {
+      "proporcao": "3cl Gin : 3cl Vermute : 3cl Campari",
+      "metodo": "Mexido (Stirred)"
+    },
+    "copo_guarnicao": "Old Fashioned com zest de laranja"
+  },
+
+  {
+    "nome": "Old Fashioned",
+    "descricao": "Possivelmente o primeiro coquetel da história. Forte, aromático e simples, destacando o sabor do whiskey.",
+    "ano_primeira_aparicao": "1806",
+    "link_receita_padrao": "https://www.iba-world.com/old-fashioned/",
+    "tags": ["whiskey", "amargo", "açúcar", "clássico", "stirred"],
+    "ingredientes_principais": [
+      "Whiskey Bourbon ou Rye",
+      "Açúcar",
+      "Angostura"
+    ],
+    "receita_chave": {
+      "proporcao": "4,5cl Whiskey : 1 cubo de açúcar : 2 dashes Angostura",
+      "metodo": "Mexido (Stirred)"
+    },
+    "copo_guarnicao": "Old Fashioned com zest de laranja"
+  },
+
+  {
+    "nome": "Daiquiri",
+    "descricao": "Coquetel cubano minimalista que celebra o equilíbrio entre rum, limão e açúcar. Fresco, elegante e sem complicações.",
+    "ano_primeira_aparicao": "1898",
+    "link_receita_padrao": "https://www.iba-world.com/daiquiri/",
+    "tags": ["rum", "sour", "clássico", "citrico"],
+    "ingredientes_principais": [
+      "Rum Branco",
+      "Suco de Limão",
+      "Açúcar"
+    ],
+    "receita_chave": {
+      "proporcao": "4,5cl Rum : 2,5cl Limão : 1,5cl Xarope",
+      "metodo": "Batido (Shaken)"
+    },
+    "copo_guarnicao": "Taça coupé sem guarnição"
+  },
+
+  {
+    "nome": "Martini",
+    "descricao": "Um dos coquetéis mais icônicos do mundo. Seco, elegante e direto ao ponto. Celebrado por escritores e cinema.",
+    "ano_primeira_aparicao": "1880",
+    "link_receita_padrao": "https://www.iba-world.com/dry-martini/",
+    "tags": ["gin", "seco", "clássico", "stirred"],
+    "ingredientes_principais": [
+      "Gin",
+      "Vermute Seco"
+    ],
+    "receita_chave": {
+      "proporcao": "6cl Gin : 1cl Vermute Seco",
+      "metodo": "Mexido (Stirred)"
+    },
+    "copo_guarnicao": "Taça Martini com azeitona ou twist de limão"
+  },
+
+  {
+    "nome": "Manhattan",
+    "descricao": "Elegante e forte, combina rye whiskey com vermute doce e amargor de Angostura. Um clássico absoluto.",
+    "ano_primeira_aparicao": "1874",
+    "link_receita_padrao": "https://www.iba-world.com/manhattan/",
+    "tags": ["whiskey", "stirred", "clássico", "forte"],
+    "ingredientes_principais": [
+      "Rye Whiskey",
+      "Vermute Rosso",
+      "Angostura"
+    ],
+    "receita_chave": {
+      "proporcao": "5cl Rye : 2cl Vermute : 2 dashes Angostura",
+      "metodo": "Mexido (Stirred)"
+    },
+    "copo_guarnicao": "Taça coupé com cereja"
+  },
+
+  {
+    "nome": "Cosmopolitan",
+    "descricao": "Fresco, frutado e com cor marcante. Popularizado nos anos 90 e eternizado pela cultura pop.",
+    "ano_primeira_aparicao": "1975",
+    "link_receita_padrao": "https://www.iba-world.com/cosmopolitan/",
+    "tags": ["vodka", "frutado", "clássico moderno", "citrico"],
+    "ingredientes_principais": [
+      "Vodka",
+      "Triple Sec",
+      "Suco de Cranberry",
+      "Suco de Limão"
+    ],
+    "receita_chave": {
+      "proporcao": "4cl Vodka : 1,5cl Triple Sec : 3cl Cranberry : 1cl Limão",
+      "metodo": "Batido (Shaken)"
+    },
+    "copo_guarnicao": "Taça Martini com zest de laranja flamejado"
+  },
+
+  {
+    "nome": "Piña Colada",
+    "descricao": "Doce, cremosa e tropical. O sabor do Caribe reunido em um dos coquetéis mais famosos do mundo.",
+    "ano_primeira_aparicao": "1954",
+    "link_receita_padrao": "https://www.iba-world.com/pina-colada/",
+    "tags": ["rum", "cremoso", "tropical", "doce"],
+    "ingredientes_principais": [
+      "Rum Branco",
+      "Creme de Coco",
+      "Suco de Abacaxi"
+    ],
+    "receita_chave": {
+      "proporcao": "3cl Rum : 3cl Creme de Coco : 9cl Abacaxi",
+      "metodo": "Batido (Blended)"
+    },
+    "copo_guarnicao": "Hurricane com fatia de abacaxi e cereja"
+  },
+
+  {
+    "nome": "Caipirinha",
+    "descricao": "O coquetel brasileiro mais famoso do mundo. Refrescante, doce-ácido e feito com cachaça, limão e açúcar.",
+    "ano_primeira_aparicao": "1918",
+    "link_receita_padrao": "https://www.iba-world.com/caipirinha/",
+    "tags": ["cachaça", "brasileiro", "cítrico", "clássico"],
+    "ingredientes_principais": [
+      "Cachaça",
+      "Limão",
+      "Açúcar"
+    ],
+    "receita_chave": {
+      "proporcao": "5cl Cachaça : 1 limão : 2 colheres de açúcar",
+      "metodo": "Misturado (Build) com maceração"
+    },
+    "copo_guarnicao": "Copo baixo com fatia de limão"
+  },
+
+  {
+    "nome": "Aperol Spritz",
+    "descricao": "Leve, refrescante e com cor vibrante. Ideal para tardes de verão e muito popular mundialmente.",
+    "ano_primeira_aparicao": "1950",
+    "link_receita_padrao": "https://www.iba-world.com/aperol-spritz/",
+    "tags": ["aperitivo", "leve", "espumante", "citrico"],
+    "ingredientes_principais": [
+      "Aperol",
+      "Prosecco",
+      "Água com Gás"
+    ],
+    "receita_chave": {
+      "proporcao": "6cl Prosecco : 4cl Aperol : Splash de Água com Gás",
+      "metodo": "Montado (Build)"
+    },
+    "copo_guarnicao": "Taça de vinho com fatia de laranja"
+  },
+
+  {
+    "nome": "Mai Tai",
+    "descricao": "Um dos maiores ícones da coquetelaria Tiki. Frutado, aromático e complexo no sabor.",
+    "ano_primeira_aparicao": "1944",
+    "link_receita_padrao": "https://www.iba-world.com/mai-tai/",
+    "tags": ["rum", "tiki", "frutado", "clássico"],
+    "ingredientes_principais": [
+      "Rum Envelhecido",
+      "Rum Claro",
+      "Laranja Curaçau",
+      "Orgeat",
+      "Limão"
+    ],
+    "receita_chave": {
+      "proporcao": "3cl Rum Claro : 3cl Rum Escuro : 1,5cl Curaçau : 1cl Orgeat : 3cl Limão",
+      "metodo": "Batido (Shaken)"
+    },
+    "copo_guarnicao": "Copo Tiki com hortelã"
+  },
+
+  {
+    "nome": "Bloody Mary",
+    "descricao": "Coquetel salgado, temperado e encorpado. Considerado o drink brunch definitivo.",
+    "ano_primeira_aparicao": "1921",
+    "link_receita_padrao": "https://www.iba-world.com/bloody-mary/",
+    "tags": ["vodka", "temperado", "sal", "brunch"],
+    "ingredientes_principais": [
+      "Vodka",
+      "Suco de Tomate",
+      "Limão",
+      "Molho Inglês",
+      "Sal e Pimenta"
+    ],
+    "receita_chave": {
+      "proporcao": "4,5cl Vodka : 9cl Suco de Tomate : Dash de limão",
+      "metodo": "Montado (Build)"
+    },
+    "copo_guarnicao": "Highball com aipo"
+  },
+
+  {
+    "nome": "Sidecar",
+    "descricao": "Clássico elegante da era Prohibition. Sabor cítrico, forte e levemente adocicado.",
+    "ano_primeira_aparicao": "1922",
+    "link_receita_padrao": "https://www.iba-world.com/sidecar/",
+    "tags": ["cognac", "citrico", "clássico"],
+    "ingredientes_principais": [
+      "Cognac",
+      "Triple Sec",
+      "Suco de Limão"
+    ],
+    "receita_chave": {
+      "proporcao": "5cl Cognac : 2cl Triple Sec : 2cl Limão",
+      "metodo": "Shaken (Batido)"
+    },
+    "copo_guarnicao": "Taça coupé com borda de açúcar"
+  },
+
+  {
+    "nome": "Espresso Martini",
+    "descricao": "Moderno e energético, combina café espresso com vodka e licor de café. Amargo, doce e muito popular.",
+    "ano_primeira_aparicao": "1983",
+    "link_receita_padrao": "https://www.iba-world.com/espresso-martini/",
+    "tags": ["vodka", "café", "clássico moderno", "doce-amargo"],
+    "ingredientes_principais": [
+      "Vodka",
+      "Licor de Café",
+      "Café Espresso"
+    ],
+    "receita_chave": {
+      "proporcao": "4cl Vodka : 2cl Licor de Café : 1 shot de Espresso",
+      "metodo": "Batido (Shaken)"
+    },
+    "copo_guarnicao": "Taça coupé com três grãos de café"
+  }
+]
