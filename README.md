@@ -17,16 +17,10 @@ Desenvolvido com foco em projetos puramente estáticos, ele demonstra a capacida
 
 <div align="center">
    <img src="https://github.com/MaSabino74/Bartender--Codex/blob/main/Mockup%20Bartender%20Codex.png">
-</div>  
+</div> 
+ <div align="center"> Acesse o Projeto Online: https://bartendercodex.netlify.app/</div>
 <br>
 
-### 🔗 Acesse o Projeto Online
-
-<div align="center">O projeto está totalmente funcional e disponível para consulta:</div>
-
-
-
----
 
 ## 🎯 Funcionalidades Chave
 
