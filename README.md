@@ -12,14 +12,17 @@ Desenvolvido com foco em projetos puramente estáticos, ele demonstra a capacida
 
 ## 🌟 Visualização do Projeto
 
-Visão final do projeto em vários dispositivos:
+<div align="center">Visão final do projeto em vários dispositivos:</div>
 <br>
 
+<div align="center">
+   <img src="https://github.com/MaSabino74/Bartender--Codex/blob/main/Mockup%20Bartender%20Codex.png">
+</div>  
 <br>
 
 ### 🔗 Acesse o Projeto Online
 
-O projeto está totalmente funcional e disponível para consulta:
+<div align="center">O projeto está totalmente funcional e disponível para consulta:</div>
 
 
 
