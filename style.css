@@ -123,7 +123,7 @@ article h2 {
     border-bottom: none; /* Sem borda inferior */
     padding-bottom: 0; /* Sem espaçamento interno inferior */
     margin-bottom: 0.25rem; /* Margem inferior */
-    color:#C82909; /* Cor do texto */
+    color:#800000; /* Cor do texto */
 }
 
 article p {
@@ -131,7 +131,7 @@ article p {
     line-height: 1.6; /* Altura da linha para melhor legibilidade */
     font-size: 1rem; /* Tamanho da fonte */
     margin-bottom: 0.5rem; /* Margem inferior */
-    color: #800000; /* Cor do texto */
+    color: #C82909; /* Cor do texto */
     font-weight: 500; /* Peso da fonte */
 }
 
