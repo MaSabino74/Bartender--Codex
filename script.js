@@ -32,7 +32,7 @@ function renderizarCards(dados) {
         <h2>${dado.nome}</h2>
         <p>${dado.ano_primeira_aparicao}</p>
         <p>${dado.descricao}</p>
-        <a href="${dado.link}" target="_blank">Saiba mais</a>
+        <a href="${dado.link_receita_padrao}" target="_blank">Receita original</a>
         `
         cardContainer.appendChild(article);
     }

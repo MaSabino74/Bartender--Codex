@@ -123,7 +123,7 @@ article h2 {
     border-bottom: none; /* Sem borda inferior */
     padding-bottom: 0; /* Sem espaçamento interno inferior */
     margin-bottom: 0.25rem; /* Margem inferior */
-    color:#800000; /* Cor do texto */
+    color:#b91d20; /* Cor do texto */
 }
 
 article p {
@@ -224,6 +224,11 @@ article a:hover {
 
     article h2 { /* Estilos para o h2 do article em telas muito pequenas */
         font-size: 1.3rem; /* Reduz o tamanho da fonte */
+        color:#b91d20
+    }
+    article p { /* Estilos para o parágrafo do article em telas muito pequenas */
+        font-size: 0.9rem; /* Reduz o tamanho da fonte */
+        color:#C82909
     }
 
     div { /* Estilos para a div do cabeçalho em telas muito pequenas */
